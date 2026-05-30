@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fhasna2001&label=Profile%20views&color=0e75b6&style=flat" alt="fhasna2001" /> </p>
 
-- 🔭 I’m currently learning **web development using HTML, CSS, JS, PHP and MySql**
+- 🔭 I’m currently learning **web development using HTML, CSS, JS, PHP, ReactJS, NodeJS, ExpressJS and MySql**
 
 - 🎓 I’m an Undergraduate **in Physical Sciences at University of Ruhuna (Internal)**
   
